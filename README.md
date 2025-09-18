@@ -4,7 +4,7 @@ Welcome to TechWise Academy – your one-stop destination for mastering the core
 
 At TechWise Academy, we offer comprehensive, hands-on courses designed to help you navigate the world of DevOps and Cloud Technologies, using industry-standard tools and platforms like Terraform, Ansible, Puppet, Chef, Docker, Kubernetes, and major Cloud Platforms such as AWS, Azure, and GCP. Whether you're new to the field or looking to deepen your expertise, we have something for everyone.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Knowledge Delievery Platform!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learnwithtechwise&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithtechwise" /> </p>
 
